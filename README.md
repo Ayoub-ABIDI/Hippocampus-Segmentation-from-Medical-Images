@@ -6,6 +6,9 @@ A comprehensive computer vision project exploring multiple deep learning archite
 **Institution:** National Engineering School of Tunis  
 **Program:** 3rd Year DSIC Student
 
+<img width="878" height="597" alt="image" src="https://github.com/user-attachments/assets/1f0e5a63-ea43-427c-8044-ad47c870fd40" />
+
+
 ---
 
 ## 📋 Table of Contents
