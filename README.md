@@ -4,9 +4,10 @@ A comprehensive computer vision project exploring multiple deep learning archite
 
 **Author:** Ayoub Abidi  
 **Institution:** National Engineering School of Tunis  
-**Program:** 3rd Year DSIC Student
 
-<img width="878" height="597" alt="image" src="https://github.com/user-attachments/assets/1f0e5a63-ea43-427c-8044-ad47c870fd40" />
+
+<img width="871" height="297" alt="image" src="https://github.com/user-attachments/assets/9f725791-b172-4bf4-ad24-adb23850cc5c" />
+
 
 
 ---
@@ -136,6 +137,9 @@ Task04_Hippocampus/
 - **Dice Score:** 0.8108
 - **Training Time:** 32 minutes
 
+- <img width="709" height="714" alt="image" src="https://github.com/user-attachments/assets/d2abe494-25f8-483e-99b4-56e820825bec" />
+
+
 **Challenge:** Lower performance than 2D U-Net, possibly due to:
 - Increased model complexity
 - Limited training data for 3D approach
@@ -158,6 +162,9 @@ Task04_Hippocampus/
 **Performance:**
 - **Dice Score:** 0.9090
 - **Training Time:** 67 minutes
+
+<img width="1186" height="601" alt="image" src="https://github.com/user-attachments/assets/fdf518dd-44e3-40e7-91f4-4eebe46afc42" />
+
 
 **Benefit:** Improved performance on small, complex structures by focusing on relevant regions.
 
